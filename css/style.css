@@ -124,7 +124,7 @@ header.active .container .icons .envelope{
 header.active .hambarger > div,
 header.active .hambarger::before,
 header.active .hambarger::after{
-    background: var(--mainColor);
+    background: var(--fontColor);
 }
 header  nav{
     height: 100vh;
